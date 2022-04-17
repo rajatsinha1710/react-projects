@@ -196,10 +196,10 @@ input.error {
 }
 .percent-value {
   margin-bottom: 0;
-  color: var(--clr-grey-1);
+  color: var(--clr-black);
 }
 .color-value {
-  color: var(--clr-grey-1);
+  color: var(--clr-black);
   margin-bottom: 0;
 }
 .color-light .color-value {
